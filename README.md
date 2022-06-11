@@ -2,14 +2,14 @@
 
 
 # ZIM BOT INC
- WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
+ WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/Djjjjjdjdhssn/zimbot-v3?organization=Djjjjjdjdhssn&organization=Djjjjjdjdhssn)
  </a>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
 </p>
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K5dpjKvi86yHOVU3toC2Nm) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 > 
@@ -17,7 +17,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Djjjjjdjdhssn/zimbot-v3?organization=Djjjjjdjdhssn&organization=Djjjjjdjdhssn)
 
 ## BUILD PACKS
 
@@ -64,11 +64,11 @@ echo scan the qr code and enjoy bot
 
 ## JOIN MY WHATSAPP GROUP
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K5dpjKvi86yHOVU3toC2Nm)
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94761968300)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
